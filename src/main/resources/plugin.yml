@@ -1,0 +1,9 @@
+name: Dynmap2Discord
+version: 1.0.0
+author: Bytewave
+main: horse.code.dynmap2discord.Dynmap2Discord
+description: A DiscordSRV <-> Dynmap chat relay
+api-version: 1.15
+depend:
+  - DiscordSRV
+  - dynmap
