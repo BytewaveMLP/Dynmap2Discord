@@ -1,6 +1,6 @@
 # Dynmap2Discord
 
-> A DiscordSRV <-> Dynamp chat relay
+> A DiscordSRV <-> Dynmap chat relay
 
 ## Installation
 
